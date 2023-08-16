@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+}
+
+/* #chart-container {
+    width: 80%;
+    max-width: 800px;
+    height: 400px;
+    border: 1px solid #ddd;
+}
+.box1 {
+    width: 550px;
+    height: 250px;
+    margin: 20px;
+    border: 2px solid #333;
+}
+.box2 {
+    width: 550px;
+    height: 250px;
+    margin: 20px;
+    border: 2px solid #333;
+} */
+
